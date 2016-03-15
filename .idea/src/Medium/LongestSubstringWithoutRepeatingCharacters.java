@@ -7,7 +7,7 @@ class LongestSubstringNoRepeats_3 {
     public static void main(String[] args) {
         System.out
                 .println("Length of Longest substring without repeating characters: "
-                        + lengthOfLongestSubstring("abcdefghiapoewrd "));
+                        );
         System.out.println(lengthOfLongestSubstring2("abcdefghiapoewrd "));
     }
 
