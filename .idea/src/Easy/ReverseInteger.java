@@ -1,3 +1,4 @@
+package Easy;
 /*
 Reverse digits of an integer.
 

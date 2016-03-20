@@ -1,4 +1,15 @@
+package Easy;
 
+//
+// class ListNode
+//{
+//    int val;
+//    ListNode next;
+//    ListNode(int val)
+//    {
+//        this.val = val;
+//    }
+//}
 public class MergeTwoSortedLists
 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
@@ -34,17 +45,5 @@ public class MergeTwoSortedLists
 
         return headFirst.next;
 
-    }
-}
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode(int x) {
-        val = x;
-    }
-
-    public ListNode() {
-        // TODO Auto-generated constructor stub
     }
 }

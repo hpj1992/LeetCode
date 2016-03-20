@@ -1,3 +1,4 @@
+package Easy;
 public class RemoveNthNodeLinkedList
 {
     public ListNode removeNthFromEnd(ListNode head, int n) {
